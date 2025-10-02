@@ -2,6 +2,19 @@
 
 A small React + Vite demo that showcases a prompt-driven programmable treasury and employee accounts.
 
+       _.-- ,.--.
+     .'   .'     /
+     | @       |'..--------._
+    /      \._/              '.
+   /  .-.-                     \
+  (  /    \                     \
+  \\      '.                  | #
+   \\       \   -.           /
+    :\\       |    )._____.'   \
+     "       |   /  \  |  \    )
+             |   |./'  :__ \\.-'
+             '--'
+
 Quick start
 
 1. npm install

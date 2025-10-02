@@ -40,3 +40,7 @@ button.primary{background:var(--gold);border:none;padding:10px 14px;border-radiu
 .examples ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px}
 .example-btn{background:transparent;border:1px dashed rgba(255,255,255,0.06);color:var(--text);padding:8px 10px;border-radius:8px;text-align:left}
 .example-btn:hover{border-style:solid;cursor:pointer;opacity:0.95}
+
+.elephant-callout{display:flex;flex-direction:column;align-items:center;gap:8px;margin:16px auto 24px;padding:18px;border-radius:12px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.08);max-width:220px}
+.elephant-art{width:100%;height:auto;filter:drop-shadow(0 12px 22px rgba(15,23,42,0.35))}
+.elephant-caption{font-size:14px;text-align:center;color:var(--gold);letter-spacing:0.01em}
