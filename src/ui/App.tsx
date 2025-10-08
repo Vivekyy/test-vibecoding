@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import ZionLogo from './ZionLogo'
 import AccountCard from './components/AccountCard'
 import PromptCenter from './components/PromptCenter'
-import Elephant from './components/Elephant'
+import PinkDragon from './components/PinkDragon'
 import Transactions from './components/Transactions'
 
 const mockAccounts = {
@@ -80,7 +80,7 @@ export default function App(){
 
         <section className="panel center">
           <h2>Prompt Center</h2>
-          <Elephant />
+          <PinkDragon />
           <PromptCenter onAction={handleAction} employees={accounts.employees} />
         </section>
 
