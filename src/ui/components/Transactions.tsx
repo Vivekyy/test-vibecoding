@@ -2,7 +2,7 @@ import React from 'react'
 import dayjs from 'dayjs'
 
 export default function Transactions({logs}:{logs:any[]}){
-  if(logs.length===0) return <div className="empty">No activity yet</div>
+  if(logs.length===0) return <div className="empty" />
   return (
     <div className="logs">
       {logs.map((l,i)=> (
