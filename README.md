@@ -1,4 +1,4 @@
-# Runpay — Stablecoin Demo
+# Archer — Stablecoin Demo
 
 A small React + Vite demo that showcases a prompt-driven programmable treasury and employee accounts.
 
