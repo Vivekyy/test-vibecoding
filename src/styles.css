@@ -54,14 +54,10 @@ body {
 
 .runpay-logo-wordmark {
   font-size: 22px;
-  letter-spacing: 0.24em;
+  letter-spacing: 0.08em;
   font-weight: 700;
-}
-
-.runpay-logo-image {
-  height: 28px;
-  width: auto;
-  display: block;
+  color: var(--accent);
+  text-transform: uppercase;
 }
 
 .nav {

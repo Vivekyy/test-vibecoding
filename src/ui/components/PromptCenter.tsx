@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import dayjs from 'dayjs'
 
-const analysisResponse = `Runpay will produce a finance stack that fits your company: commissions, inventory automations, CRM tables, and controls mapped to your policies.`
+const analysisResponse = `Archer will produce a finance stack that fits your company: commissions, inventory automations, CRM tables, and controls mapped to your policies.`
 
 function roofingStackBlueprint(timestamp:number){
   return [
@@ -55,7 +55,7 @@ function parsePrompt(text:string, employees:any[]){
     const timestamp = Date.now()
     return {
       type:'stack-onboarding',
-      desc:'Runpay morphed your banking stack for roofing: commissions, inventory reorder, and CRM.',
+      desc:'Archer morphed your banking stack for roofing: commissions, inventory reorder, and CRM.',
       generatedWorkflows: roofingStackBlueprint(timestamp)
     }
   }

@@ -214,7 +214,7 @@ export default function App() {
           message: 'Ok! Creating employee accounts for Sarah and James. Are there any engineers you are missing that you want to receive the bonus?'
         },
         {
-          message: 'OK. Please let me know the emails for Sarah and James so I can email them their Runpay accounts to sign up.'
+          message: 'OK. Please let me know the emails for Sarah and James so I can email them their Archer accounts to sign up.'
         },
         {
           status: true,
@@ -260,7 +260,7 @@ export default function App() {
           )
         },
         {
-          message: 'OK. Please share the work emails for Maya and Tyler so I can create their Runpay accounts and invite them to sign up.'
+          message: 'OK. Please share the work emails for Maya and Tyler so I can create their Archer accounts and invite them to sign up.'
         },
         {
           status: true,
@@ -299,7 +299,7 @@ export default function App() {
         message: 'Perfect. Do you want to pay out the $5 immediately after each 5-star rating, or batched (daily or weekly) to reduce transaction noise?'
       },
       {
-      message: 'OK. Please share the work emails for Alex and Priya so I can create their Runpay accounts and email them invitations.'
+      message: 'OK. Please share the work emails for Alex and Priya so I can create their Archer accounts and email them invitations.'
       },
       {
         status: true,
